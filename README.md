@@ -71,13 +71,12 @@ Minha vontade de estudar TI começou em 2021, na pandemia do COVID-19, que foi o
 
 <div align="justify">
 <p> 
--  :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/perfil/Aramuni" target="_blank">aqui</a>.<br />
+-  :books: &nbsp; Acesse os livros que já li ou estou lendo <a href="https://www.skoob.com.br/usuario/10498971" target="_blank">aqui</a>.<br />
 - :soccer: &nbsp; Sou atleticano, torço para o <a href="https://www.arenamrv.com.br/" target="_blank">galão</a>. :rooster:<br />
-- :basketball: &nbsp; Meus hobbies são <a href="https://muonline.webzen.com/pt" target="_blank">Mu online</a>, <a href="https://www.demolidores.com.br/" target="_blank">Tibia</a>, <a href="https://olympico.com.br/esportes/basquete/" target="_blank">basquete</a>, violão e guitarra.<br />
+- :video_game: &nbsp; Meus hobbies são videogames, futebol, viagens e computadores.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
-- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:joaopauloaramuni@gmail.com" target="_blank">e-mail</a> pessoal.<br />
-- :calendar: &nbsp; Essa é minha <a href="https://calendly.com/aramuni/30min" target="_blank">agenda</a> se quiser marcar um horário para falarmos.<br />
-- :page_facing_up: &nbsp; Veja meu <a href="http://lattes.cnpq.br/1208427665892059" target="_blank">Currículo Lattes</a> para mais informações.
+- :mailbox: &nbsp; Para me encontrar, esse é meu <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBjtwgDkmNbPsJgJDJLQNgCqdJgwTHfJVcgVkqmRzDQcddlVXKqJKnPSWTppKGLMwqNpg" target="_blank">e-mail</a> pessoal.<br />
+- :page_facing_up: &nbsp; Veja meu <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=7B7C9B0CE82A1C68B4CA4594BB1D7CA8" target="_blank">Currículo Lattes</a> para mais informações.
 </p>
 </div>
 </div>
