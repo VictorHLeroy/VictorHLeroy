@@ -129,8 +129,8 @@ Minha vontade de estudar TI começou em 2021, na pandemia do COVID-19, que foi o
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Leroy's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/card?user_id=7imgehrr8iaqnkk8jsopu0yok" alt="Data Card for Spotify">
 </details>
 </div>
 <div>
