@@ -211,7 +211,7 @@ Minha vontade de estudar TI começou em 2021, na pandemia do COVID-19, que foi o
 </tr> 
 <tr>
 <td>
-<img align="center" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/R1.png?raw=true" alt="R1"/>
+
 </td>
 </tr>
 <tr>
